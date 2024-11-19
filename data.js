@@ -114,8 +114,9 @@ export const experience = [
     title: "Cognifront",
     duration: "December 23 - January 24",
     subtitle: "Project Development Intern",
-    details: ["Builing Pandas in JS"],
+    details: ["During my internship at Cognifront, I contributed to the development of innovative EdTech solutions aimed at enhancing the learning experience for students and educators. My responsibilities included designing and implementing interactive features, debugging and optimizing code, and collaborating with  teams to deliver user-centric products. This experience sharpened my skills in software development, problem-solving, and creating impactful solutions in the education domain."],
     tags: ["Python", "Pandas", "Numpy", "Javascript"],
+    preview: "https://drive.google.com/file/d/10nIsGnkDjM-zbZq1RSO_kndxmbuTWiqF/view?usp=sharing",
     icon: "laptop ",
   },
   
@@ -140,7 +141,7 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
+    title: "Class 12th HSC Science",
     duration: "",
     subtitle: "Board of Higher Secondary Education, Maharashtra",
     details: [],
